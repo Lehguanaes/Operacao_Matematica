@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff9933&size=35&center=true&vCenter=true&width=1000&lines=Operações+Matemáticas+com+variáveis+php;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff9933&size=35&center=true&vCenter=true&width=1000&lines=Operações+Matemáticas+com+variáveis+php!;)](https://git.io/typing-svg)
 
 Primeiro contato com variaveis php.
 
